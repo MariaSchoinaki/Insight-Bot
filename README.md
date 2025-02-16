@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a chatbot developed for the Entersoft Challenge during [Makeathon 2024](https://uniai.gr/makeathon-2024/). It enables company managers to interact with an SQL database (ERP system) using natural language queries. The chatbot interprets user inputs, converts them into SQL queries, retrieves the relevant data, and responds in a human-readable format.
+This project is a chatbot developed for the **Entersoft** Challenge during [Makeathon 2024](https://uniai.gr/makeathon-2024/). It enables company managers to interact with an SQL database (ERP system) using natural language queries. The chatbot interprets user inputs, converts them into SQL queries, retrieves the relevant data, and responds in a human-readable format.
 
 ## Features
 
@@ -14,12 +14,12 @@ This project is a chatbot developed for the Entersoft Challenge during [Makeatho
 ## Installation
 
 1. **Clone the Repository:**
-  > git clone https://github.com/NIKOMAHOS/entersoft_challenge.git
+  > git clone https://github.com/MariaSchoinaki/Insight-Bot
 
 2. **Navigate to the Project Directory:**
   > cd entersoft_challenge
    
-4. **Set Up a Virtual Environment (Optional but Recommended)**:
+4. **Set Up a Virtual Environment (Optional but Recommended):**
   > python -m venv venv
   > source venv/bin/activate  # On Windows: venv\Scripts\activate
 
@@ -45,3 +45,11 @@ This project is a chatbot developed for the Entersoft Challenge during [Makeatho
 ## Acknowledgments
 - Developed for the Entersoft Challenge during the 2024 Makeathon.
 - Inspired by the need for seamless human-database interactions.
+
+## Contributors
+- **Developer:** [Maria Schoinaki](https://github.com/MariaSchoinaki)
+- **Developer:** [Nikos Mitsakis](https://github.com/NIKOMAHOS)
+- **Developer:** [Ippokratis Pantelidis](https://github.com/Ippo03)
+- **Developer:** [Eleni Kechrioti](https://github.com/EleniKechrioti)
+
+You can find a demo video [here](https://vimeo.com/1057163731/ec663a143c?ts=0&share=copy).
