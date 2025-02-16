@@ -14,7 +14,7 @@ This project is a chatbot developed for the **Entersoft** Challenge during [Make
 ## Installation
 
 1. **Clone the Repository:**
-  > git clone https://github.com/MariaSchoinaki/Insight-Bot
+  > git clone https://github.com/NIKOMAHOS/entersoft_challenge.git
 
 2. **Navigate to the Project Directory:**
   > cd entersoft_challenge
