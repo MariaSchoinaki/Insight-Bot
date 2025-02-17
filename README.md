@@ -52,4 +52,4 @@ This project is a chatbot developed for the **Entersoft** Challenge during [Make
 - **Developer:** [Ippokratis Pantelidis](https://github.com/Ippo03)
 - **Developer:** [Eleni Kechrioti](https://github.com/EleniKechrioti)
 
-You can find a demo video [here](https://vimeo.com/1057163731/ec663a143c?ts=0&share=copy).
+You can find a demo video [here](https://vimeo.com/1057649178/20ba003978?ts=0&share=copy).
