@@ -1,6 +1,6 @@
 # Entersoft Challenge
 
-[![Watch the Video](https://img.youtube.com/vi/42vlpCwiU8w/0.jpg)](https://youtu.be/42vlpCwiU8w)
+**Watch the Demo Video** [here](https://youtu.be/42vlpCwiU8w)
 
 ## Overview
 
